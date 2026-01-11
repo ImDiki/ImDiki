@@ -12,7 +12,7 @@ Language: 日本語 (N1学習中), 英語 (IELTS), ミャンマー語
 【強み】
 現在、基本情報技術者試験 (FE) の取得に向けて猛勉強しており、基礎的なアルゴリズムやシステム設計の理解があります。C#や.NETを用いたバックエンド開発、またはAngularを用いたフロントエンド開発の両方に対応可能です。身体的な理由により、在宅での業務に特化して成果を出したいと考えています。
 
-GitHub: [မင်းရဲ့ GitHub Link ဒီမှာထည့်ပါ]
+GitHub: https://github.com/ImDiki
 
 即戦力として貢献できるよう尽力します。
 ぜひ一度、お話しする機会をいただけないでしょうか。
@@ -38,7 +38,7 @@ Languages: Japanese (JLPT N1 Candidate), English, Burmese
 
 【Strengths】 I am currently preparing for the Fundamental Information Technology Engineer Examination (FE) and have a solid understanding of algorithms and system design. I am capable of working on both backend development using C#/.NET and frontend development using Angular. Due to physical circumstances, I am specifically seeking a remote role where I can fully utilize my technical skills to contribute to your team from home.
 
-GitHub: [မင်းရဲ့ GitHub Link ဒီမှာထည့်ပါ]
+GitHub: https://github.com/ImDiki
 
 I am eager to contribute to your projects immediately. I would appreciate the opportunity to discuss how my skills could benefit your team.
 
