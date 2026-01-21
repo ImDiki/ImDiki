@@ -4,14 +4,6 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 **System Engineering Student** [Osaka INFORMATION AND COMPUTER SCIENCE COLLEGE]
-- 📱 Current Focus: Building cross-platform mobile apps using **C#** and **.NET MAUI**
-- 💻 Experienced in **WPF Glass UI** and looking to bring that aesthetic to mobile platforms
-- 🇯🇵 **JLPT N1** Candidate - Bridging Technology and Language
-
----
-
 ### 🛠 Mobile Development Stack
 <p align="left">
   <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -21,9 +13,6 @@
 </p>
 
 ---
-
-### 🚀 Quick Intro / 自己紹介
-
 ### 🚀 Quick Intro / 自己紹介
 
 | 🇺🇸 English | 🇯🇵 日本語 |
@@ -32,7 +21,6 @@
 | OIC System Engineering Student in Osaka. | 大阪のOIC（システムエンジニア専攻）に在学中。 |
 | Preparing for FE Exam & JLPT N1. | 基本情報技術者試験 (FE) と JLPT N1 に向けて勉強中。 |
 | 🌐 **Portfolio:** [Imdiki.github.io](https://Imdiki.github.io) | 🌐 **ポートフォリオ:** [Imdiki.github.io](https://Imdiki.github.io) |
-
 
 ---
 
