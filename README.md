@@ -22,9 +22,14 @@
 
 ---
 
-### 🌟 Featured Mobile & Desktop Projects
-- **[Student Attendance App](https://github.com/ImDiki/Student_Attendance_App)**: A specialized system with a **STUDENT ATTENDANCE TRACKING APP**။
-- **[Mobile-First Logic](https://github.com/ImDiki/Multilingual-Calculator)**: Cross-platform utility development
+### 🚀 Quick Intro / 自己紹介
+
+| 🇺🇸 English | 🇯🇵 日本語 |
+| :--- | :--- |
+| **Aspiring Mobile Developer** focused on C# and .NET MAUI. | **モバイルアプリエンジニア**を目指して、C#と.NET MAUIを学習中。 |
+| OIC System Engineering Student in Osaka. | 大阪のOIC（システムエンジニア専攻）に在学中。 |
+| Preparing for FE Exam & JLPT N1. | 基本情報技術者試験 (FE) と JLPT N1 に向けて勉強中。 |
+
 
 ---
 
