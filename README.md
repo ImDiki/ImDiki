@@ -32,8 +32,6 @@
 | 🇺🇸 English | 🇯🇵 日本語 |
 | :--- | :--- |
 | **Nationality:** Myanmar 🇲🇲 | **国籍:** ミャンマー 🇲🇲 |
-| **Role:** Aspiring Mobile Developer with Full-stack experience. | **職種:** モバイルアプリエンジニア志望（Web・バックエンド経験あり）。 |
-| **Tech:** C#, .NET MAUI, Angular, Spring Boot & Bootstrap. | **技術:** C#, .NET MAUI, Angular, Spring Boot, Bootstrap。 |
 | **Education:** OIC System Engineering Student in Osaka. | **学歴:** 大阪のOIC（システムエンジニア専攻）に在学中。 |
 | **Focus:** FE Exam & JLPT N1. | **目標:** 基本情報技術者試験 (FE) と JLPT N1 に向けて勉強中。 |
 | 🌐 **Portfolio:** [Imdiki.github.io](https://Imdiki.github.io) | 🌐 **ポートフォリオ:** [Imdiki.github.io](https://Imdiki.github.io) |
