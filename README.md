@@ -49,7 +49,7 @@
 | **Nationality:** Myanmar 🇲🇲 | **国籍:** ミャンマー 🇲🇲 |
 | **Education:** OIC System Engineering Student in Osaka. | **学歴:** 大阪のOIC（システムエンジニア専攻）に在学中。 |
 | **Focus:** FE Exam & JLPT N1. | **目標:** 基本情報技術者試験 (FE) と JLPT N1 に向けて勉強中。 |
-| 🌐 **Portfolio:** [Imdiki.github.io](https://Imdiki.github.io) | 🌐 **ポートフォリオ:** [Imdiki.github.io](https://Imdiki.github.io) |
+| 🌐 **Portfolio:** (https://imdiki.github.io/My-Portfolio/) | 🌐 **ポートフォリオ:** https://imdiki.github.io/My-Portfolio/|
 
 ---
 
