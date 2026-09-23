@@ -9,7 +9,7 @@ I'm based in Osaka, Japan, studying System Engineering and Computer Science. I b
 ## Technical skills
 
 - **Desktop:** C#, .NET, WPF
-- **Web:** JavaScript, TypeScript, HTML, CSS
+- **Web:** JavaScript, Next.js , TypeScript, HTML, CSS
 - **Data:** SQL, SQL Server
 - **Tools:** Git, GitHub, Visual Studio, VS Code
 
