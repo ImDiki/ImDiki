@@ -1,4 +1,4 @@
-# Myat Thadar Linn
+# MYAT THADARLINN
 
 **Junior Software Developer | C#/.NET & Web Development**
 
@@ -51,7 +51,7 @@ Exposes student-record lookup from a local attendance database to AI assistants 
 
 - **Osaka Information and Computer Science College:** Second-year System Engineering student.
 - **University of the People:** B.S. in Computer Science, in progress; expected completion October 2027. President's List honoree.
-- **Languages:** Myanmar — native; Japanese — JLPT N2 level; English — working proficiency.
+- **Languages:** Myanmar — native; Japanese — JLPT N2 level; English — CEFR B2.
 
 ## Current learning focus
 
