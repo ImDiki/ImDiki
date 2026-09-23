@@ -1,62 +1,66 @@
-# 🦉 MYAT THADAR LINN 
-**Developer | Full-stack Enthusiast | Myanmar 🇲🇲**
+# MYAT THADARLINN
 
----
+**Junior Software Developer | C#/.NET & Web Development**
 
-### 🛠 Technical Experience & Stack
+I'm based in Osaka, Japan, studying System Engineering and Computer Science. I build practical, multilingual software using C#/.NET and modern web technologies.
 
+**Currently open to remote software-development internships and junior developer opportunities.**
 
+## Technical skills
 
-#### 📱 Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  
-  
-</p>
+- **Desktop:** C#, .NET, WPF
+- **Web:** JavaScript, TypeScript, HTML, CSS
+- **Data:** SQL, SQL Server
+- **Tools:** Git, GitHub, Visual Studio, VS Code
 
-#### 🌐 Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
+## Featured projects
 
-#### 📐 OOAD (Object-Oriented Analysis & Design)
-<p align="left">
-  <img src="https://img.shields.io/badge/UML_Modeling-0052CC?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astah_Pro-FF6F00?style=for-the-badge&logo=creativetechnology&logoColor=white" />
-</p>
+### Hakushu
 
-#### 🔧 Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+A multilingual presentation-support application created during OIC NovaHack 2026. Helps Myanmar- and English-speaking users prepare Japanese presentation scripts, with selectable Japanese-language levels and a Google sign-in option.
 
-#### 🗣️ Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/English-B2_(IELTS/TOEIC)-4169E1?style=for-the-badge&logo=english&logoColor=white" />
-  <img src="https://img.shields.io/badge/Japanese-B2_(JLPT)-D91438?style=for-the-badge&logo=google-translate&logoColor=white" />
-</p>
----
+**Platform:** Web application hosted on Vercel
 
-### 🚀 Quick Intro / 自己紹介
+[Live demo](https://hakushu.vercel.app/)
 
-| 🇺🇸 English | 🇯🇵 日本語 |
-| :--- | :--- |
-| **Nationality:** Myanmar 🇲🇲 | **国籍:** ミャンマー 🇲🇲 |
-| **Education:** OIC System Engineering Student in Osaka. | **学歴:** 大阪のOIC（システムエンジニア専攻）に在学中。 |
-| **Focus:** FE Exam & JLPT N1. | **目標:** 基本情報技術者試験 (FE) と JLPT N1 に向けて勉強中。 |
-| 🌐 **Portfolio:** (https://imdiki.github.io/My-Portfolio/) | 🌐 **ポートフォリオ:** https://imdiki.github.io/My-Portfolio/|
+### Student Attendance App
 
----
+A desktop application for managing classroom attendance through teacher/student dashboards, QR-code attendance and timetable management. Currently under development.
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImDiki&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImDiki&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
+**Tech:** C#, .NET, WPF, SQL Server, ZXing.Net
+
+[Repository](https://github.com/ImDiki/Student_Attendance_App)
+
+### Coin Parking System
+
+A desktop application for tracking parking-space availability, recording entry times and calculating parking fees. Organizes the interface and application logic using MVVM.
+
+**Tech:** C#, WPF, MVVM
+
+[Repository](https://github.com/ImDiki/CoinParkingSystem)
+
+### Attendance MCP Server
+
+Exposes student-record lookup from a local attendance database to AI assistants through the Model Context Protocol.
+
+**Tech:** C#, .NET 8, SQL Server (LocalDB), MCP
+
+[Repository](https://github.com/ImDiki/AttendanceMCPServer)
+
+## Education and recognition
+
+- **Osaka Information and Computer Science College:** Second-year System Engineering student.
+- **University of the People:** B.S. in Computer Science, in progress; expected completion October 2027. President's List honoree.
+- **Languages:** Myanmar — native; Japanese — JLPT N2 level; English — CEFR B2.
+
+## Current learning focus
+
+Deepening my C#/.NET and web-development skills through practical projects, while learning AWS and Azure cloud fundamentals.
+
+## Career interests
+
+Growing into a full-stack developer, contributing to international technology teams and exploring aviation technology.
+
+## Contact
+
+[Portfolio](https://imdiki.github.io/My-Portfolio/) · [GitHub](https://github.com/ImDiki) · [Email](mailto:myat221018@gmail.com)
