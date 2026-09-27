@@ -67,7 +67,7 @@ A small .NET 8 learning/prototype integration that exposes student lookup from t
 
 - Myanmar — Native
 - Japanese — JLPT N2
-- English — CERF B2
+- English — CEFR B2
 
 ## Current Learning
 
