@@ -18,49 +18,56 @@ I'm based in Osaka, Japan, studying System Engineering and Computer Science. I b
 
 ### Hakushu
 
-An AI-powered presentation-support web application developed by the **Byte Me** team for OIC NovaHack 2026. It helps users turn Burmese or English notes into Japanese presentation drafts with selectable language-level guidance and reading support.
+A presentation-support web application developed by the **Byte Me** team for OIC NovaHack 2026.
 
-I served as **Project Team Leader**, helping guide the project from idea to deployment and hackathon presentation.
+I served as **Project Team Leader**, helping guide development priorities and the hackathon presentation.
 
-**Tech:** Next.js, TypeScript, Supabase, Gemini API, Vercel  
 **Recognition:** みんなにつたわる賞 — OIC NovaHack 2026
 
 [Live Demo](https://hakushu.vercel.app/)
 
 ### Student Attendance App
 
-A WPF desktop application for classroom attendance with role-based student, teacher, and administrator workflows, SQL Server LocalDB storage, and password hashing.
+A .NET 8/WPF desktop application for classroom attendance with student, teacher, and administrator views. Its primary attendance workflow records attendance from a scanned or entered student code and uses SQL Server LocalDB for local data.
 
-**Tech:** C#, .NET 8, WPF, SQL Server, BCrypt, ZXing.Net
+**Tech:** C#, .NET 8, WPF, SQL Server LocalDB, BCrypt
 
 [Repository](https://github.com/ImDiki/Student_Attendance_App)
 
 ### Coin Parking System
 
-A C#/WPF parking-management application that tracks parking-space availability, records entry times, calculates parking fees, and writes receipt and income records. The project uses an MVVM-based structure.
+A C#/WPF parking-management application that manages 15 parking slots, records entry times, calculates parking fees, and writes receipt and income records. It uses an MVVM-based structure.
 
-**Tech:** C#, .NET, WPF, MVVM
+**Tech:** C#, .NET, WPF, XAML
 
 [Repository](https://github.com/ImDiki/CoinParkingSystem)
 
+### POS System
+
+A C#/WPF student project implementing a convenience-store POS workflow including product lookup, cart and payment processing, transaction records, receipt output, and SQL Server LocalDB integration.
+
+**Tech:** C#, .NET 8, WPF, SQL Server LocalDB
+
+[Repository](https://github.com/ImDiki/POS_System)
+
 ### Attendance MCP Server
 
-A .NET 8 MCP server that connects an AI client to a local student-attendance database for student-record lookup.
+A small .NET 8 learning/prototype integration that exposes student lookup from the attendance database through an MCP-style JSON-RPC tool interface.
 
-**Tech:** C#, .NET 8, SQL Server LocalDB, Model Context Protocol
+**Tech:** C#, .NET 8, Microsoft.Data.SqlClient, System.Text.Json
 
 [Repository](https://github.com/ImDiki/AttendanceMCPServer)
 
 ## Education
 
-- **Osaka Information and Computer Science College** — System Engineering
-- **University of the People** — B.S. Computer Science, in progress
+- **Osaka Information and Computer Science College** — System Engineering, Mar 2025 – Mar 2027
+- **University of the People** — B.S. Computer Science, Mar 2025 – Mar 2028
 
 ## Languages
 
 - Myanmar — Native
-- Japanese — JLPT N2 level
-- English — CEFR B2
+- Japanese — JLPT N2
+- English — TOEIC 680 / IELTS 5.5
 
 ## Current Learning
 
@@ -72,4 +79,4 @@ Full-stack and software development, international technology teams, and aviatio
 
 ## Contact
 
-[Portfolio](https://imdiki.github.io/My-Portfolio/) · [GitHub](https://github.com/ImDiki) · [Email](mailto:myattdlinn@gmail.com)
+[Portfolio](https://imdiki.github.io/My-Portfolio/) · [GitHub](https://github.com/ImDiki) · [LinkedIn](https://www.linkedin.com/in/myat-thadarlinn) · [Email](mailto:myattdlinn@gmail.com)
