@@ -63,4 +63,4 @@ Growing into a full-stack developer, contributing to international technology te
 
 ## Contact
 
-[Portfolio](https://imdiki.github.io/My-Portfolio/) · [GitHub](https://github.com/ImDiki) · [Email](mailto:myat221018@gmail.com)
+[Portfolio](https://imdiki.github.io/My-Portfolio/) · [GitHub](https://github.com/ImDiki) · [Email](mailto:myattdlinn@gmail.com)
